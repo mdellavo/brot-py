@@ -3,8 +3,8 @@
 A simple Mandelbrot demo in Python with basic multiprocessing support.
 
 ## To Do
- - [ ] Verify and document current state of code
- - [ ] Generate a proper README
+- [ ] Verify and document current state of code
+- [ ] Generate a proper README
 
 ---
 
